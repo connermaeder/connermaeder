@@ -27,7 +27,7 @@ from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Sequence, Tuple
 
 
-DEFAULT_START = "Vorderboden 1, 6373 Ennetbürgen"
+DEFAULT_START = "..."
 DEFAULT_USER_AGENT = "route-optimizer/1.0 (contact: local-script)"
 
 
