@@ -3,7 +3,7 @@
 Optimiert eine Besuchsroute fuer Adresslisten (CSV oder XLSX).
 
 Standard:
-- Startadresse: Vorderboden 1, 6373 Ennetbuergen
+- Startadresse: ...
 - Duplikate werden zusammengefasst (optional abschaltbar)
 - Geocoding via Nominatim (OpenStreetMap) mit lokalem Cache
 - Routenoptimierung: Nearest Neighbor + 2-opt
